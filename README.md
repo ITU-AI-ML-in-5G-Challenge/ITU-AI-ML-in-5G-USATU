@@ -1,7 +1,7 @@
 # ITU-AI-ML-in-5G-USATU
 
-# Trafic classification
-## Used for classification network trafic type. This sollution used for classification between IOT and Video trafic.
+# Traffic classification
+## Used for classification network traffic type. This solution used for classification between IOT and Video trafic.
 
 ### Requirements
 - matplotlib
@@ -11,4 +11,10 @@
 - sklearn
 - imblearn
 
-# Trafic Forecasting
+# Traffic Forecasting
+## Used to predict traffic based on previous values
+- matplotlib
+- pandas
+- numpy
+- tensorflow
+- sklearn
