@@ -18,3 +18,14 @@
 - numpy
 - tensorflow
 - sklearn
+
+We got the best result when using data from the last 24 hours and one hour exactly one day ago.
+
+We trained two neural network models. One for bytes and one for packets. And got the followingresults:1)Bytes:
+RMSE=0.0195
+MAPE = 13.43 %
+2)Packages:
+RMSE = 0.005
+MAPE = 16.781 %
+
+
